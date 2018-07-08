@@ -28,7 +28,7 @@ Now is when it gets complicated.
 
 Each proposal needs this info:
 
-[["proposal",{"end_epoch":"1530945000","name":"Stim Test","payment_address":"nGHsTUHXzwhmRxMVNDvQ2wAf9wtkpi4t2q","payment_amount":"0","start_epoch":"1530933300","type":1,"url":"https://github.com/STM0x01/proposals-test/issues/1"}]]
+[["proposal",{"end_epoch":"1530945000","name":"Stim Test","payment_address":"nGHsTUHXzwhmRxMVNDvQ2wAf9wtkpi4t2q","payment_amount":"0","start_epoch":"1530933300","type":1,"url":"https://github.com/STM0x01/proposals/issues/1"}]]
 
 So the syntax here is this:
 
@@ -50,7 +50,7 @@ So the syntax here is this:
 
 Once you have filled out all of those areas your proposal should look like this:
 
-[["proposal",{"end_epoch":"1530945000","name":"Stim Test","payment_address":"nGHsTUHXzwhmRxMVNDvQ2wAf9wtkpi4t2q","payment_amount":"0","start_epoch":"1530933300","type":1,"url":"https://github.com/STM0x01/proposals-test/issues/1"}]]
+[["proposal",{"end_epoch":"1530945000","name":"Stim Test","payment_address":"nGHsTUHXzwhmRxMVNDvQ2wAf9wtkpi4t2q","payment_amount":"0","start_epoch":"1530933300","type":1,"url":"https://github.com/STM0x01/proposals/issues/1"}]]
 
 Now you need to “prepare” the proposal.
 
